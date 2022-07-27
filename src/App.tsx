@@ -74,7 +74,7 @@ const App = () => {
       <ReactJson src={employeesApp.current} displayDataTypes={false} />
       <Box
         sx={{
-          position: "absolute",
+          position: "fixed",
           right: 0,
           top: 0,
         }}
